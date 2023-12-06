@@ -1,5 +1,13 @@
-### Hi there 👋
+Hello I am Kevin Michael, I am a software hobbyist with over a year of full stack web development experience. Learning and implementing technologies gives me great joy more than anything else. I am constantly learning and striving to improve my skills.
+- 🌱 I’m currently learning Postgress, GraphQL, Go
+- 👯 I’m looking to collaborate on Open source projects
 
+Technologies I am proficient at are 
+![image](https://github.com/KevinMichaelA/KevinMichaelA/assets/69981950/c5097ebb-e6f3-4af6-9d1e-fc7d88c90c0e)
+
+
+### Hi there 👋
+https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png
 <!--
 **KevinMichaelA/KevinMichaelA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
