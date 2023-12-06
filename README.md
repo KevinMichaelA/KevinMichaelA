@@ -2,7 +2,7 @@
 ***
 I am a software hobbyist with over a year of full stack web development experience. Learning and implementing technologies gives me great joy more than anything else. I am constantly learning and striving to improve my skills.
 - :brain: I’m currently learning Postgress, GraphQL, Go
-- 👯 I’m looking to collaborate on Open source projects
+- :handshake: I’m looking to collaborate on Open source projects
 
 Technologies I am proficient at are 
 
